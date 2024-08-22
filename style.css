@@ -1,0 +1,22 @@
+body{
+    background-image: url(cop.jpg);
+    background-size: cover;
+    color: white;
+}
+h1{
+    text-align: center ;
+
+}
+.Welcome{
+    font-size: large;
+    text-align: center ;
+}
+#id100{
+font-family: 'Times New Roman', Times, serif italic;
+}
+.pic{
+    height: 270px;
+    width: 200px;
+    background-image: url(ibraheem.jpeg);
+    background-size: cover;
+}
